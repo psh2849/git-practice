@@ -66,6 +66,8 @@ $ git commit --amend
 $ git push origin amend_branch
 ```
 
+## 8. git-training
+
 ## Useful git commands  
 ### 1. Git pull all from remote  
 ```
