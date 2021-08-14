@@ -1,4 +1,5 @@
 # git-practice
+# 2222
 Git Practice repository  
 All content is taken from https://github.com/github/docs.  
 Fork this repository and practice!  
@@ -65,6 +66,8 @@ $ git add .
 $ git commit --amend
 $ git push origin amend_branch
 ```
+
+## 8. git-training
 
 ## Useful git commands  
 ### 1. Git pull all from remote  
